@@ -43,3 +43,9 @@ trim_trailing_whitespace = true
 # Possible values - true, false
 
 insert_final_newline = true
+
+# Denotes preferred quoting style for string literals (for languages that support multiple quote styles)
+
+# Possible values - single, double, auto
+
+quote_type = single
